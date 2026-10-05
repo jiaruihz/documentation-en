@@ -244,6 +244,10 @@ Before you begin, you can choose between two ways to connect to a node:
 
 The examples in this module will primarily be demonstrated using a **public node**.
 
+To compare third-party hosted node and API options, see the [Chain.Love TRON API directory](https://tron.chain.love/toolbox/apis).
+It groups available plans for TRON and links to provider documentation; verify endpoint and API coverage,
+historical-data availability, rate limits, and current pricing before integrating.
+
 ### Method One: Using `wallet-cli` (Recommended)
 
 #### Query Account Information
@@ -631,4 +635,3 @@ Querying a broadcast transaction via the HTTP API follows the same principle as 
 ## Next Steps
 
 Congratulations on completing your introductory journey with java-tron! You have now mastered core skills like running a node, creating an account, and sending transactions, laying a solid foundation for deeper exploration of the TRON ecosystem.
-
